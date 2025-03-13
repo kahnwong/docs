@@ -866,7 +866,7 @@ copy-anything@^3.0.2:
   dependencies:
     is-what "^4.1.8"
 
-cross-spawn@^7.0.0, cross-spawn@^7.0.3:
+cross-spawn@^7.0.3, cross-spawn@^7.0.6:
   version "7.0.6"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-7.0.6.tgz#8a58fe78f00dcd70c370451759dfbfaf03e8ee9f"
   integrity sha512-uV2QOWP2nWzsy2aMp8aRibhi9dlzF5Hgh5SHaB9OiTGEyDTiJJyx0uy51QXdyWbtAHNua4XJzUKca3OzKUd3vA==
@@ -1015,11 +1015,11 @@ focus-trap@^7.6.4:
     tabbable "^6.2.0"
 
 foreground-child@^3.1.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/foreground-child/-/foreground-child-3.3.0.tgz#0ac8644c06e431439f8561db8ecf29a7b5519c77"
-  integrity sha512-Ld2g8rrAyMYFXBhEqMz8ZAHBi4J4uS1i/CxGMDnjyFWddMXLVcDp051DZfu+t7+ab7Wv6SMqpWmyFIj5UbfFvg==
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/foreground-child/-/foreground-child-3.3.1.tgz#32e8e9ed1b68a3497befb9ac2b6adf92a638576f"
+  integrity sha512-gIXjKqtFuWEgzFRJA9WCQeSJLZDjgJUOMCMzxtvFq/37KojM1BFGufqsCy0r4qSQmYLsZYMeyRqzIWOMup03sw==
   dependencies:
-    cross-spawn "^7.0.0"
+    cross-spawn "^7.0.6"
     signal-exit "^4.0.1"
 
 fsevents@~2.3.2, fsevents@~2.3.3:
@@ -1422,10 +1422,10 @@ property-information@^6.0.0:
   resolved "https://registry.yarnpkg.com/property-information/-/property-information-6.5.0.tgz#6212fbb52ba757e92ef4fb9d657563b933b7ffec"
   integrity sha512-PgTgs/BlvHxOu8QuEN7wi5A0OmXaBcHpmCSTehcs6Uuu9IkDIEo13Hy7n898RHfrQ49vKCoGeWZSaAK01nwVig==
 
-qsu@^1.6.4:
-  version "1.6.4"
-  resolved "https://registry.yarnpkg.com/qsu/-/qsu-1.6.4.tgz#268ce1aa211d3942eb4723502c96a2616cd138c9"
-  integrity sha512-4PRyFDQhfvz/Np+W2dRJ96bna3Zfby/XOxum9R6hdkA3k8WLHwzcrpJ2lL/zeUYbJJu6ODpKxefJavHk0oCVIw==
+qsu@^1.10.0:
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/qsu/-/qsu-1.10.0.tgz#f83239f582debc573b71f89ccbe20e5b56dfa300"
+  integrity sha512-60UGE7IEYXX/xy/n1w7vDm+is43pmePajAdXAnFOczvVDJKbVqZ5/RvRy+yobjA4iQitr4H/4zojVFtAkNWW9g==
 
 regex-recursion@^5.1.1:
   version "5.1.1"
@@ -1748,13 +1748,13 @@ vite@^5.4.14:
     fsevents "~2.3.3"
 
 vitepress-sidebar@^1.29.0:
-  version "1.31.0"
-  resolved "https://registry.yarnpkg.com/vitepress-sidebar/-/vitepress-sidebar-1.31.0.tgz#5d5eb6cb59e970520698c2b461fdc24d6dee76df"
-  integrity sha512-ctdALc8ptXsD0HuOYMM8xjUu3lSBfHGJJZYtKYuixvjhL+q/AipLeSvsvwfUEhDIwRyi46HQlSa/7XsevVA/Mg==
+  version "1.31.1"
+  resolved "https://registry.yarnpkg.com/vitepress-sidebar/-/vitepress-sidebar-1.31.1.tgz#d13b87de8ac47303605bdf9deb0702b39cfee102"
+  integrity sha512-Hx10z5le87jIIXVfKq4AtRrVqVJJ/1cQsZhmwT+ghVR/j4Yor9FjNMszyigJ54ktrEtoxSLO6C9tvuLauT4lZA==
   dependencies:
     glob "10.4.5"
     gray-matter "4.0.3"
-    qsu "^1.6.4"
+    qsu "^1.10.0"
 
 vitepress@^1.5.0:
   version "1.6.3"
