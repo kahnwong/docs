@@ -41,3 +41,4 @@ outline: deep
 - [LLM Pricing](https://www.botgenuity.com/tools/llm-pricing)
 - [LLM Explorer](https://llm.extractum.io/list/?small)
 - [Killed by LLM](https://r0bk.github.io/killedbyllm/)
+- [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)

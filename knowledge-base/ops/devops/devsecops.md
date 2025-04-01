@@ -14,6 +14,10 @@
 
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
+## Honeypots
+
+- [tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
+
 ## Linters
 
 - [trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets, also cloud infrastructure as well.
@@ -21,6 +25,10 @@
 ## Secrets
 - [No Secrets! 🤫](https://sourcegraph-community.github.io/no-secrets/) - Find secrets in your GitHub repo.
 - [teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
+
+## Security
+
+- [SPIFFE](https://spiffe.io/) - Universal identity control plane for distributed systems.
 
 ## Tools
 - [Nepenthes](https://zadzmo.org/code/nepenthes/) - This is a tarpit intended to catch web crawlers. Specifically, it's targetting crawlers that scrape data for LLM's - but really, like the plants it is named after, it'll eat just about anything that finds it's way inside.

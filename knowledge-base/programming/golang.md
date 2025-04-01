@@ -25,6 +25,9 @@ outline: deep
 - [requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers
 - [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go
 
+### Concurrency
+
+- [errgroup](https://pkg.go.dev/golang.org/x/sync/errgroup) - Package errgroup provides synchronization, error propagation, and Context cancelation for groups of goroutines working on subtasks of a common task.
 
 ### Systems
 - [clipboard-image](https://github.com/skanehira/clipboard-image)
@@ -40,6 +43,7 @@ outline: deep
 - [go-querystring](https://github.com/google/go-querystring) - go-querystring is Go library for encoding structs into URL query strings
 - [godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [sops](https://pkg.go.dev/github.com/getsops/sops/v3)
+- [validator](https://github.com/go-playground/validator) - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 
 ## Cookbook
@@ -53,6 +57,10 @@ go build -ldflags="-s -w" <your-package>
 ### Receive multiple returns from goroutine
 
 <https://stackoverflow.com/a/17825968>
+
+## Humor
+
+- [Write in Go (Fall 2014)](https://www.youtube.com/watch?v=LJvEIjRBSDA)
 
 ## Resources
 
