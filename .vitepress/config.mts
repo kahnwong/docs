@@ -274,6 +274,14 @@ export default defineConfig({
               }),
             },
             {
+              text: "Hyprland",
+              collapsed: true,
+              items: generateSidebar({
+                scanStartPath: "/knowledge-base/misc/hyprland",
+                useTitleFromFileHeading: true,
+              }),
+            },
+            {
               text: "OS",
               items: generateSidebar({
                 scanStartPath: "/knowledge-base/misc/os",
