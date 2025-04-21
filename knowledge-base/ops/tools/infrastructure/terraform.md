@@ -114,6 +114,7 @@ resource "aws_ecs_task_definition" "this" {
 ## Tools
 
 - [terrakube](https://terrakube.org/) - Open source IaC Automation and Collaboration Software.
+- [digger](https://docs.digger.dev/readme/introduction) - Open-source CI/CD orchestrator for Terraform.
 
 ## Resources
 

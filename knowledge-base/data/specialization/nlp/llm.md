@@ -8,6 +8,12 @@ outline: deep
 
 - [Replicate](https://replicate.com/explore)
 
+## Vendors
+
+### Google
+
+- [Gemini - OpenAI compatibility ](https://ai.google.dev/gemini-api/docs/openai)
+
 ## Tools
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language

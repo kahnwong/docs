@@ -30,7 +30,7 @@ LineID : @HoukandBank
 *** ปิดทำการในวันหยุดนักขัตฤกษ์
 ```
 
-## [PC repair shop](https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C/@13.710614,100.5066403,15z/data=!4m9!1m2!2m1!1z4LiL4LmI4Lit4Lih4LiE4Lit4Lih!3m5!1s0x30e298b7af0e1189:0x39b4795a2703380!8m2!3d13.710614!4d100.515395!15sChXguIvguYjguK3guKHguITguK3guKGSARdjb21wdXRlcl9yZXBhaXJfc2VydmljZQ)
+## [PC repair shop](https://maps.app.goo.gl/EA2cpYJRszL2ytyX7)
 
 ```
 139 ถนนจันทน์ ซอยจันทน์ 42 แขวง ยานนาวา เขต สาทร กรุงเทพมหานคร 10120
