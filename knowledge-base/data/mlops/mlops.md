@@ -17,6 +17,7 @@ outline: deep
 - [Production Data Science](https://github.com/FilippoBovo/production-data-science/)
 - [The Big Dictionary of MLOps](https://www.hopsworks.ai/mlops-dictionary)
 - [The State of Open Source AI](https://book.premai.io/state-of-open-source-ai)
+- [Machine Learning Systems](https://mlsysbook.ai/)
 
 ### Governance
 

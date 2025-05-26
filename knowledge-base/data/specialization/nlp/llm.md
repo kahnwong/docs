@@ -8,6 +8,10 @@ outline: deep
 
 - [Replicate](https://replicate.com/explore)
 
+## MCP Servers
+
+- [mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+
 ## Vendors
 
 ### Google

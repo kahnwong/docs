@@ -71,3 +71,4 @@ It sounds dumb and fake, but if you connect the tablet to the keyboard and then 
 
 ## References
 - [Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
+- [Force Factory Reset via Recovery](https://www.reddit.com/r/GalaxyS21/comments/zklby8/locked_out_of_your_phone_due_to_a_forgotten/)

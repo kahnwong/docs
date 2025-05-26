@@ -34,6 +34,7 @@ outline: deep
 - [Engineering Ladders](http://www.engineeringladders.com/)
 - [Software Development/Leadership Ladder](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
 - [A Senior Engineer's CheckList](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
+- [https://waypnts.com/](https://waypnts.com/)
 
 ## Tests
 

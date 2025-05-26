@@ -24,6 +24,7 @@ outline: deep
 - [gofiber](https://github.com/gofiber/fiber/v2) - ⚡️ Express inspired web framework written in Go
 - [requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers
 - [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go
+- [automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota
 
 ### Concurrency
 
@@ -37,6 +38,7 @@ outline: deep
 
 ### Testing
 - [dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
+- [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 
 ### Utilities
 
