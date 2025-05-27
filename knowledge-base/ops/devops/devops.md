@@ -23,6 +23,7 @@ outline: deep
 - [Should I Deploy Today?](https://shouldideploy.today/)
 - [Deploy ดีไหม?](https://deploydeemai.today/)
 - [Testcontainers](https://testcontainers.com/) - Unit tests with real dependencies
+- [Maelstrom](https://maelstrom-software.com/) - Maelstrom is a suite of test runners for Rust, Go, and Pytest, built on top of a general-purpose clustered job engine
 
 ## Resources
 
