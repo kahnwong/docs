@@ -20,7 +20,6 @@
 
 ## Cookbook
 
-- [Baharat Cookbook](https://baharatcookbook.com/) - A collection of Turkish and Syrian cuisine inspired by IOM Turkey's Protection and Psychosocial programme's socio-cultural activities.
 - [Lowly Food](https://www.lowlyfood.com/)
 
 ## Cooking channels

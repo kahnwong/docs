@@ -163,5 +163,5 @@ ORDER BY
 ## Resources
 
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
-- [SQL Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/)
+- [SQL Style Guide](https://handbook.gitlab.com/handbook/enterprise-data/platform/sql-style-guide/)
 - [SQLBolt](https://sqlbolt.com) - Learn SQL with simple, interactive exercises.

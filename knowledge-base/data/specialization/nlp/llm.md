@@ -24,7 +24,6 @@ outline: deep
   models.
 - [TokenCost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps
 - [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference
-- [Can I Run This LLM?](https://canirunthisllm.com/)
 
 ## Status Pages
 - [IsMyAIDown](https://ismyaidown.com/)

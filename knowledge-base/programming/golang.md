@@ -21,7 +21,7 @@ outline: deep
 
 ### Backend
 
-- [gofiber](https://github.com/gofiber/fiber/v2) - ⚡️ Express inspired web framework written in Go
+- [gofiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers
 - [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go
 - [automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota

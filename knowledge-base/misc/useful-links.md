@@ -6,7 +6,6 @@
 
 ## Browser Games
 
-- [Play Snake on Google Maps](https://snake.googlemaps.com/)
 - [Hole.io](https://hole-io.com/)
 - [slither.io](http://slither.io/)
 - [snake.io](https://snake.io/)

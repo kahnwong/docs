@@ -25,4 +25,3 @@ apt-get install build-essential g++ gcc libbz2-dev libc-dev liblzma-dev libncurs
 
 - [Python Readiness](https://pyreadiness.org/) - Python support graph for specific Python versions for the most popular Python packages!
 - [CodingBat](https://codingbat.com/python) - Python exercises.
-- [Breaking Packages in Python](https://dagster.io/blog/python-breaking-packages) - An exposé of the nooks and crannies of Python’s modules and packages.

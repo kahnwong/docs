@@ -96,7 +96,7 @@ aws s3 ls s3://overturemaps-us-west-2/release/2023-10-19-alpha.0/theme=places/ty
 
 ## Pricing
 
-- [AWS Fargate ECS Pricing Calculator](http://fargate-pricing-calculator.site.s3-website-us-east-1.amazonaws.com/)
+- [AWS Fargate ECS Pricing Calculator](https://cloudtempo.dev/fargate-pricing-calculator/)
 - [AWS Pricing Calculator](https://calculator.aws/)
 - [AWS Savings Plan Calculator](https://cloudshim.com/calculator)
 - [EC2Instances.info](https://instances.vantage.sh/)

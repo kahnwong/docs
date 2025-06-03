@@ -23,9 +23,6 @@ outline: deep
 4. What do you want to be / alignment (advice from me)
 5. Feedback for ME (what to continue, stop, and start doing)
 
-## Hiring
-
-- [Realistic engineering hiring assessments](https://www.trytapioca.com/library-of-assessments)
 
 ## Career ladder
 
@@ -33,7 +30,6 @@ outline: deep
 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
 - [Engineering Ladders](http://www.engineeringladders.com/)
 - [Software Development/Leadership Ladder](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
-- [A Senior Engineer's CheckList](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
 - [https://waypnts.com/](https://waypnts.com/)
 
 ## Tests

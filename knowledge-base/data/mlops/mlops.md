@@ -27,4 +27,3 @@ outline: deep
 ### Tools
 
 - [The LF AI & Data Foundation](https://landscape.lfai.foundation)
-- [MLOps Toys](https://mlops.toys)
