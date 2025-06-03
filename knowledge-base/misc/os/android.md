@@ -60,6 +60,7 @@ for %f in (*.apk) do adb install "%f"
 ## Apps
 - [Organic Maps](https://organicmaps.app/) - Offline Hike, Bike, Trails and Navigation
 - [syncthing](https://github.com/Catfriend1/syncthing-android)
+- [OpenTagViewer](https://github.com/parawanderer/OpenTagViewer) - Track AirTags on Android
 
 ## Fixes
 

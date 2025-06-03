@@ -25,6 +25,7 @@ rustup self uninstall
 
 - [ort](https://ort.pyke.io/) - Rust binding for ONNX runtime
 - [fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
+- [rayon](https://github.com/rayon-rs/rayon) - A data parallelism library for Rust
 
 
 ### Distributed Systems
