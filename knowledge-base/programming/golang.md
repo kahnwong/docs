@@ -21,10 +21,11 @@ outline: deep
 
 ### Backend
 
+- [automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota
+- [feugo](https://github.com/go-fuego/fuego) - Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs
 - [gofiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers
 - [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go
-- [automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota
 
 ### Concurrency
 

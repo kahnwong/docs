@@ -20,6 +20,7 @@ outline: deep
 
 - [CanYouSeeMe](https://canyouseeme.org) - Open Port Check Tool.
 - [ngrok](https://ngrok.com/) - ngrok allows you to expose a web server running on your local machine to the internet. Just tell ngrok what port your web server is listening on.
+- [kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient
 
 ### Speedtest
 

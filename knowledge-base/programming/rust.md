@@ -40,6 +40,10 @@ rustup self uninstall
 - [egui](https://www.egui.rs/) - An immediate mode GUI written in Rust
 - [iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by Elm.
 
+### Utilities
+
+- [arboard](https://github.com/1Password/arboard) - A clipboard for Rust
+
 ## Are We $X Yet
 
 - <https://www.arewewebyet.org/>

@@ -8,7 +8,9 @@ outline: deep
 
 - [Pandera](https://github.com/pandera-dev/pandera) - A light-weight, flexible, and expressive data validation library for dataframes.
 - [polars](https://www.pola.rs/) - Lightning-fast DataFrame library for Rust and Python.
+  - [polars-st](https://github.com/Oreilles/polars-st) - Spatial extension for Polars DataFrames
 - [atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas.
+- [kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
 
 ## Resources
 

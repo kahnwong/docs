@@ -17,11 +17,18 @@ outline: deep
 
 - [Chaos Mesh](https://chaos-mesh.org/)
 
+## Storage
+
+- [CubeFS](https://cubefs.io/docs/master/deploy/k8s.html#deployment) - CubeFS is a new generation cloud-native open source storage system that supports access protocols such as S3, HDFS, and POSIX.
+
 ## Tools
 
 - [Crontab.guru](https://crontab.guru/) - An easy to use editor for crontab schedules.
 - [Should I Deploy Today?](https://shouldideploy.today/)
 - [Deploy ดีไหม?](https://deploydeemai.today/)
+
+## Testing
+
 - [Testcontainers](https://testcontainers.com/) - Unit tests with real dependencies
 - [Maelstrom](https://maelstrom-software.com/) - Maelstrom is a suite of test runners for Rust, Go, and Pytest, built on top of a general-purpose clustered job engine
 
