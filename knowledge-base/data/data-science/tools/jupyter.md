@@ -40,3 +40,9 @@ JSON(
 %load_ext dotenv
 %dotenv
 ```
+
+## JupyterHub
+
+```bash
+curl -L https://tljh.jupyter.org/bootstrap.py | sudo -E python3 - --admin $USER
+```
