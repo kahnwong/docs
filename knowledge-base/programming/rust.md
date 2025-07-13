@@ -20,6 +20,7 @@ rustup self uninstall
 ### CLI
 
 - [clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+- [ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 
 ### Data
 
@@ -34,6 +35,7 @@ rustup self uninstall
 
 ### Networking
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services
+- [rama](https://github.com/plabayo/rama) - modular service framework to move and transform network packets
 
 ### GUI
 

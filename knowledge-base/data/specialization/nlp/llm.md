@@ -18,6 +18,10 @@ outline: deep
 
 - [Gemini - OpenAI compatibility ](https://ai.google.dev/gemini-api/docs/openai)
 
+### OpenAI
+
+- [Terraform Provider - openai](https://registry.terraform.io/providers/mkdev-me/openai/latest/docs)
+
 ## Tools
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language

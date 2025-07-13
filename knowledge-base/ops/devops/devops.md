@@ -4,6 +4,10 @@ outline: deep
 
 # DevOps
 
+## Containers
+
+- [zot](https://zotregistry.dev/) - OCI-native container image registry, simplified
+
 ## Cheatsheets
 
 - [command-not-found](https://command-not-found.com)

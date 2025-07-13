@@ -260,6 +260,7 @@ export default defineConfig({
             { text: "Typescript", link: "knowledge-base/programming/typescript" },
             { text: "Vue", link: "knowledge-base/programming/vue" },
             { text: "WASM", link: "knowledge-base/programming/wasm" },
+            { text: "Zig", link: "knowledge-base/programming/zig" },
           ],
         },
         {
