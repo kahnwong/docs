@@ -1689,9 +1689,9 @@ vite@^5.4.14:
     fsevents "~2.3.3"
 
 vitepress-sidebar@^1.29.0:
-  version "1.32.1"
-  resolved "https://registry.yarnpkg.com/vitepress-sidebar/-/vitepress-sidebar-1.32.1.tgz#a5b08c186a34fa083950e48fdfbec559a816d356"
-  integrity sha512-OMLeQ7jfgZqR6jbqEtMcHkcy1Pr434Grxc0fQlnJRSLc8XtWAJvEMxCWhDQcZ3m3O9UODbf9aa92lLOZ8CLsBA==
+  version "1.33.0"
+  resolved "https://registry.yarnpkg.com/vitepress-sidebar/-/vitepress-sidebar-1.33.0.tgz#0e7e51e3988da159601f14a4141778bb37d03090"
+  integrity sha512-+z45vGG6OQRKNU7OMhmrp5y9dk9Y8loFZGE2LwzqloqA4p+ECP3/Ti6qrS8kB3N8Rol4v0Nf8HSnsgZEDU4HXQ==
   dependencies:
     glob "10.4.5"
     gray-matter "4.0.3"
