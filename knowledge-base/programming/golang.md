@@ -57,6 +57,12 @@ outline: deep
 go build -ldflags="-s -w" <your-package>
 ```
 
+### Cross-platform build
+
+```bash
+GOOS=linux GOARCH=arm64 go build
+```
+
 ### Receive multiple returns from goroutine
 
 <https://stackoverflow.com/a/17825968>
