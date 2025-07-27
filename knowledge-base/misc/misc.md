@@ -61,6 +61,14 @@ On Linux with Piper to map key buttons, need to use onboard profile.
 800-1600-2400-3200-6400
 ```
 
+## Navidrome
+
+Remove album from database
+
+```bash
+DELETE FROM album WHERE name LIKE '%Unknown Album%';
+```
+
 ## Ereader
 
 ### Kobo
