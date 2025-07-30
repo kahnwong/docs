@@ -74,6 +74,7 @@ GOOS=linux GOARCH=arm64 go build
 ## References
 
 - [Rust + Go(lang)](https://github.com/mediremi/rust-plus-golang)
+- [GoReleaser Example](https://webinstall.dev/goreleaser/)
 
 ## Resources
 
