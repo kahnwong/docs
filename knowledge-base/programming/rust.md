@@ -55,6 +55,10 @@ rustup self uninstall
 
 - [Rustacean.net: Home of Ferris the Crab](https://rustacean.net/)
 
+## References
+
+- [Cross compilation in Rust](https://fpira.com/blog/2025/01/cross-compilation-in-rust)
+
 ## Resources
 
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/)

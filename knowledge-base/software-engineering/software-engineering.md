@@ -17,6 +17,10 @@ outline: deep
 - [Floating Point Math](https://0.30000000000000004.com/)
 - [Software Folklore](https://beza1e1.tuxen.de/lore/)
 
+## Distributed Systems
+
+- [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
+
 ## System design
 
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101)

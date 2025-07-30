@@ -71,6 +71,10 @@ GOOS=linux GOARCH=arm64 go build
 
 - [Write in Go (Fall 2014)](https://www.youtube.com/watch?v=LJvEIjRBSDA)
 
+## References
+
+- [Rust + Go(lang)](https://github.com/mediremi/rust-plus-golang)
+
 ## Resources
 
 - [Convert JSON to Go struct](https://mholt.github.io/json-to-go/)
@@ -78,3 +82,4 @@ GOOS=linux GOARCH=arm64 go build
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
 - [Errors in Go](https://miparnisariblog.wordpress.com/2024/07/28/errors-in-go/)
 - [Go by Example](https://gobyexample.com/)
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
