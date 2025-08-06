@@ -10,8 +10,8 @@ yarn dev # http://localhost:5173
 ## Validate links
 
 ```bash
-go install github.com/skrashevich/go-linkchecker@latest
-go-linkchecker -f **/*.md
+npm install -g markdown-link-check
+markdown-link-check **/*.md
 ```
 
 ## Algolia resources

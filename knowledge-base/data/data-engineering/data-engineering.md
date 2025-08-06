@@ -27,5 +27,4 @@ outline: deep
 
 ### Management
 
-- [Building Modern Data Teams](https://www.amplifypartners.com/modern-data-teams/)
 - [Enterprise Data Team](https://handbook.gitlab.com/handbook/enterprise-data/)

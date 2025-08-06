@@ -10,9 +10,7 @@
 - [slither.io](http://slither.io/)
 - [snake.io](https://snake.io/)
 
-## Finance
 
-- [Financial Freedom Calculator](https://maybefinance.com/tools/financial-freedom-calculator)
 
 ### Rockbox
 
@@ -28,7 +26,6 @@
 ## Media
 
 - [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/)
-- [12ft](https://12ft.io) - Remove paywalls.
 
 ## Movies
 
