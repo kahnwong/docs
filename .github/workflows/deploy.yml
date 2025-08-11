@@ -22,7 +22,7 @@ jobs:
     name: Publish to Cloudflare Pages
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       # ---------- build ----------
       - name: Setup node
         uses: actions/setup-node@v4.4.0
@@ -50,7 +50,7 @@ jobs:
         with:
           time: "5s"
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Index vitepress
         run: |
           docker run \
