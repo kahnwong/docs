@@ -49,6 +49,11 @@ outline: deep
 
 - [Neo4j LLM Knowledge Graph Builder](https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/)
 
+
+## Apps
+
+- [gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+
 ## Resources
 
 - [LLM Pricing](https://www.botgenuity.com/tools/llm-pricing)

@@ -35,6 +35,7 @@ outline: deep
 - [clipboard-image](https://github.com/skanehira/clipboard-image)
 - [clipboard](https://github.com/atotto/clipboard)
 - [conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
+- [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 
 ### Testing
