@@ -4,6 +4,10 @@ Notes:
 
 > Dextrose and dextrin from wheat – dextrOSE you can have thOSE but dextrIN put it in the bIN
 
+## Restaurants
+
+- [Theera Healthy Bake Room](https://www.theerahealthybakeroom.com/)
+
 ## Grocery
 
 | Category     | Vendor                                                                      |
