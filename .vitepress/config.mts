@@ -11,7 +11,7 @@ export default defineConfig({
   description: "Personal docs",
 
   sitemap: {
-    hostname: 'https://docs.karnwong.me'
+    hostname: "https://docs.karnwong.me",
   },
 
   markdown: {
@@ -229,6 +229,7 @@ export default defineConfig({
           text: "Programming",
           items: [
             { text: "Golang", link: "knowledge-base/programming/golang" },
+            { text: "Monkey C", link: "knowledge-base/programming/monkeyc" },
             { text: "Node", link: "knowledge-base/programming/node" },
             {
               text: "Python",
@@ -257,7 +258,10 @@ export default defineConfig({
               ],
             },
             { text: "Rust", link: "knowledge-base/programming/rust" },
-            { text: "Typescript", link: "knowledge-base/programming/typescript" },
+            {
+              text: "Typescript",
+              link: "knowledge-base/programming/typescript",
+            },
             { text: "Vue", link: "knowledge-base/programming/vue" },
             { text: "WASM", link: "knowledge-base/programming/wasm" },
             { text: "Zig", link: "knowledge-base/programming/zig" },

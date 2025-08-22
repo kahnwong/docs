@@ -88,6 +88,7 @@ Carto Light: http://d.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png
 - [h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system.
   - [h3-viewer](https://github.com/clupasq/h3-viewer) - View Uber H3 Hexagons on a map.
   - [https://github.com/uber/h3-py](https://github.com/uber/h3-py)
+- [GERS](https://overturemaps.org/gers/) - Overture’s Global Entity Reference System (GERS) is an ID system for geospatial entities. GERS makes data sharing, onboarding, and joining easier via common, open, accessible IDs.
 
 ### Server
 

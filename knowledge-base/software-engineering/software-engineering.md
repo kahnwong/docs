@@ -50,6 +50,10 @@ outline: deep
 - [Handbook Directory](https://handbook.directory/)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
+## Cursed Knowledge
+
+- [immich](https://immich.app/cursed-knowledge/)
+
 ## Tools
 
 - [Makefile Tutorial](https://makefiletutorial.com/)
