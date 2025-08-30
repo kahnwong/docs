@@ -6,7 +6,8 @@ Notes:
 
 ## Restaurants
 
-- [Theera Healthy Bake Room](https://www.theerahealthybakeroom.com/)
+- [Theera Healthy Bake Room](https://www.theerahealthybakeroom.com/) - dedicated gf kitchen
+- [25 Degrees Bangkok](https://www.randblab.com/25-degrees-bangkok/) - shared kitchen, separate cookware. brain fog the day after!!!
 
 ## Grocery
 
