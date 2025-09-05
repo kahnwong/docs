@@ -30,25 +30,27 @@ outline: deep
 - [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference
 
 ## Status Pages
+
 - [IsMyAIDown](https://ismyaidown.com/)
 
 ## Models
 
-| Creator    | Name                                 | Hugging Face                                                         | Ollama                                                      |
-| ---------- | ------------------------------------ | -------------------------------------------------------------------- | ----------------------------------------------------------- |
-| Snowflake  | snowflake-arctic-embed               | [HF](https://huggingface.co/Snowflake/snowflake-arctic-embed-l)      | [Ollama](https://ollama.com/library/snowflake-arctic-embed) |
-| Snowflake  | snowflake-arctic-instruct            | [HF](https://huggingface.co/Snowflake/snowflake-arctic-instruct)     |                                                             |
-| MotherDuck | duckdb-nsql                          | [HF](https://huggingface.co/motherduckdb/DuckDB-NSQL-7B-v0.1)        | [Ollama](https://ollama.com/library/duckdb-nsql)            |
-| SCB 10X    | typhoon-1.5-8b-instruct              | [HF](https://huggingface.co/scb10x/llama-3-typhoon-v1.5-8b-instruct) |                                                             |
-| Google     | [Gemma](https://ai.google.dev/gemma) |                                                                      |                                                             |
-| Google     | PaliGemma                            | [HF](https://huggingface.co/google/paligemma-3b-pt-224)              |                                                             |
-| Lumi       | Viking                               | [HF](https://huggingface.co/LumiOpen/Viking-7B)                      |                                                             |
-| KBTG       | THaLLE                               | [HF](https://huggingface.co/KBTG-Labs/THaLLE-0.1-7B-fa)              |                                                             |
+| Creator    | Name                   | Hugging Face                                                    | Ollama                                                      |
+| ---------- | ---------------------- | --------------------------------------------------------------- | ----------------------------------------------------------- |
+| Google     | embeddinggemma         |                                                                 | [Ollama](https://ollama.com/library/embeddinggemma)         |
+| Google     | gemma3                 |                                                                 | [Ollama](https://ollama.com/library/gemma3)                 |
+| Google     | gemma3n                |                                                                 | [Ollama](https://ollama.com/library/gemma3n)                |
+| KBTG       | THaLLE                 | [HF](https://huggingface.co/KBTG-Labs/THaLLE-0.1-7B-fa)         |                                                             |
+| Lumi       | Viking                 | [HF](https://huggingface.co/LumiOpen/Viking-7B)                 |                                                             |
+| Mistral AI  | mistral | | [Ollama](https://ollama.com/library/mistral) |
+| MotherDuck | duckdb-nsql            | [HF](https://huggingface.co/motherduckdb/DuckDB-NSQL-7B-v0.1)   | [Ollama](https://ollama.com/library/duckdb-nsql)            |
+| SCB 10X    | typhoon-ocr-3b         |                                                                 | [Ollama](https://ollama.com/scb10x/typhoon-ocr-3b)          |
+| SCB 10X    | typhoon-translate-4b   |                                                                 | [Ollama](https://ollama.com/scb10x/typhoon-translate-4b)    |
+| SCB 10X    | typhoon2.1-gemma3-4b   |                                                                 | [Ollama](https://ollama.com/scb10x/typhoon2.1-gemma3-4b)    |
 
 ## Demo
 
 - [Neo4j LLM Knowledge Graph Builder](https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/)
-
 
 ## Apps
 
