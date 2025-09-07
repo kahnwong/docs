@@ -25,6 +25,13 @@ fi
 echo "$myImgStr" | base64 -d > image2.jpg
 ```
 
+## cp
+
+```bash
+# remove symlink for copy
+cp -Lr /usr/share/solr/ ~/solrTest
+```
+
 ## jq
 
 ```bash
