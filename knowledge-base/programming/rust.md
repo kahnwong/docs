@@ -11,6 +11,8 @@ rustup self uninstall
 
 [Recommended crates](https://blessed.rs/crates)
 
+- [whichlang](https://github.com/quickwit-oss/whichlang) - A blazingly fast and lightweight language detection library for Rust
+
 
 ### Backend
 
@@ -63,6 +65,7 @@ rustup self uninstall
 
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 - [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
+- [Pragmatic Rust Guidelines](https://microsoft.github.io/rust-guidelines/)
 - [Rust Language Cheat Sheet](https://cheats.rs/)
 - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)

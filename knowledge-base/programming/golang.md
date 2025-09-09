@@ -6,8 +6,9 @@ outline: deep
 
 ## Libraries
 
-### Frameworks
+### Frameworks / Libraries
 
+- [cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
 - [expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 
 
@@ -17,7 +18,6 @@ outline: deep
 - [color](https://github.com/fatih/color) - Color package for Go
 - [huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
-- [viper](https://github.com/spf13/viper) - Go configuration with fangs
 
 ### Backend
 
@@ -45,7 +45,6 @@ outline: deep
 ### Utilities
 
 - [go-querystring](https://github.com/google/go-querystring) - go-querystring is Go library for encoding structs into URL query strings
-- [godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [sops](https://pkg.go.dev/github.com/getsops/sops/v3)
 - [validator](https://github.com/go-playground/validator) - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger

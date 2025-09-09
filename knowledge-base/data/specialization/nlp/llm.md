@@ -10,7 +10,8 @@ outline: deep
 
 ## MCP Servers
 
-- [mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+- [mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to
+  interact with external tools through the Model Context Protocol (MCP).
 
 ## Vendors
 
@@ -35,18 +36,20 @@ outline: deep
 
 ## Models
 
-| Creator    | Name                   | Hugging Face                                                    | Ollama                                                      |
-| ---------- | ---------------------- | --------------------------------------------------------------- | ----------------------------------------------------------- |
-| Google     | embeddinggemma         |                                                                 | [Ollama](https://ollama.com/library/embeddinggemma)         |
-| Google     | gemma3                 |                                                                 | [Ollama](https://ollama.com/library/gemma3)                 |
-| Google     | gemma3n                |                                                                 | [Ollama](https://ollama.com/library/gemma3n)                |
-| KBTG       | THaLLE                 | [HF](https://huggingface.co/KBTG-Labs/THaLLE-0.1-7B-fa)         |                                                             |
-| Lumi       | Viking                 | [HF](https://huggingface.co/LumiOpen/Viking-7B)                 |                                                             |
-| Mistral AI  | mistral | | [Ollama](https://ollama.com/library/mistral) |
-| MotherDuck | duckdb-nsql            | [HF](https://huggingface.co/motherduckdb/DuckDB-NSQL-7B-v0.1)   | [Ollama](https://ollama.com/library/duckdb-nsql)            |
-| SCB 10X    | typhoon-ocr-3b         |                                                                 | [Ollama](https://ollama.com/scb10x/typhoon-ocr-3b)          |
-| SCB 10X    | typhoon-translate-4b   |                                                                 | [Ollama](https://ollama.com/scb10x/typhoon-translate-4b)    |
-| SCB 10X    | typhoon2.1-gemma3-4b   |                                                                 | [Ollama](https://ollama.com/scb10x/typhoon2.1-gemma3-4b)    |
+| Creator    | Name                 | Hugging Face                                                  | Ollama                                                   |
+|------------|----------------------|---------------------------------------------------------------|----------------------------------------------------------|
+| EuroLLM    | EuroLLM              | [HF](https://huggingface.co/utter-project/EuroLLM-9B)         |                                                          |
+| Google     | embeddinggemma       |                                                               | [Ollama](https://ollama.com/library/embeddinggemma)      |
+| Google     | gemma3               |                                                               | [Ollama](https://ollama.com/library/gemma3)              |
+| Google     | gemma3n              |                                                               | [Ollama](https://ollama.com/library/gemma3n)             |
+| KBTG       | THaLLE               | [HF](https://huggingface.co/KBTG-Labs/THaLLE-0.1-7B-fa)       |                                                          |
+| Lumi       | Viking               | [HF](https://huggingface.co/LumiOpen/Viking-7B)               |                                                          |
+| Mistral AI | mistral              |                                                               | [Ollama](https://ollama.com/library/mistral)             |
+| MotherDuck | duckdb-nsql          | [HF](https://huggingface.co/motherduckdb/DuckDB-NSQL-7B-v0.1) | [Ollama](https://ollama.com/library/duckdb-nsql)         |
+| SCB 10X    | typhoon-ocr-3b       |                                                               | [Ollama](https://ollama.com/scb10x/typhoon-ocr-3b)       |
+| SCB 10X    | typhoon-translate-4b |                                                               | [Ollama](https://ollama.com/scb10x/typhoon-translate-4b) |
+| SCB 10X    | typhoon2.1-gemma3-4b |                                                               | [Ollama](https://ollama.com/scb10x/typhoon2.1-gemma3-4b) |
+| TildeAI    | Tilde                | [HF](https://huggingface.co/TildeAI/TildeOpen-30b)            |                                                          |
 
 ## Demo
 
@@ -54,7 +57,8 @@ outline: deep
 
 ## Apps
 
-- [gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and
+  allows people to try and use models locally.
 
 ## Resources
 

@@ -7,7 +7,7 @@ outline: deep
 ## Distros
 
 - [Bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld
-
+- [Fedora Silverblue](https://docs.fedoraproject.org/en-US/fedora-silverblue/)
 
 ## Cookbook
 
