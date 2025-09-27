@@ -19,6 +19,10 @@ outline: deep
 - [FacetimeHD linux driver](https://github.com/patjak/facetimehd/wiki)
 - [Wi-Fi and Bluetooth](https://wiki.t2linux.org/guides/wifi-bluetooth/) - Download `firmware.sh` and execute it
 
+### Select kernel version during boot
+
+Hold `SHIFT` key during boot.
+
 ### Set default editor
 
 ```bash
