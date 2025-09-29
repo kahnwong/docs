@@ -32,6 +32,15 @@ outline: deep
 
 - [NATs](https://nats.io/) - Connective Technology for Adaptive Edge & Distributed Systems
 
+### Wireguard
+
+```bash
+# place wireguard config at `/etc/wireguard/wg0.conf`
+
+wg-quick up wg0
+wg-quick up wg0
+```
+
 ## Cookbook
 
 ### Intercepting HTTPS traffic on iOS

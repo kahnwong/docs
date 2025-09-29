@@ -83,6 +83,10 @@ Carto Light: http://d.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png
 
 ## Tools
 
+### Wrangling
+
+- [SedonaDB](https://sedona.apache.org/sedonadb/latest/)
+
 ### Indexing
 
 - [h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system.
@@ -116,3 +120,4 @@ Carto Light: http://d.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png
 
 - [Geocomputation with Python](https://py.geocompx.org/)
 - [Cloud-Optimized Geospatial Formats Guide](https://guide.cloudnativegeo.org)
+- [Parquet with GEOMETRY type is not GeoParquet](https://rednegra.net/blog/20250925-parquet-with-geometry-type-is-not-geoparquet/)

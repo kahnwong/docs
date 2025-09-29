@@ -38,10 +38,12 @@ outline: deep
 
 | Creator    | Name                 | Hugging Face                                                  | Ollama                                                   |
 |------------|----------------------|---------------------------------------------------------------|----------------------------------------------------------|
+| BAAI       | bge-m3               | [HF](https://huggingface.co/BAAI/bge-m3)                      | [Ollama](https://ollama.com/library/bge-m3)              |
 | EuroLLM    | EuroLLM              | [HF](https://huggingface.co/utter-project/EuroLLM-9B)         |                                                          |
 | Google     | embeddinggemma       |                                                               | [Ollama](https://ollama.com/library/embeddinggemma)      |
 | Google     | gemma3               |                                                               | [Ollama](https://ollama.com/library/gemma3)              |
 | Google     | gemma3n              |                                                               | [Ollama](https://ollama.com/library/gemma3n)             |
+| Google     | vaultgemma           | [HF](https://huggingface.co/google/vaultgemma-1b)             |                                                          |
 | KBTG       | THaLLE               | [HF](https://huggingface.co/KBTG-Labs/THaLLE-0.1-7B-fa)       |                                                          |
 | Lumi       | Viking               | [HF](https://huggingface.co/LumiOpen/Viking-7B)               |                                                          |
 | Mistral AI | mistral              |                                                               | [Ollama](https://ollama.com/library/mistral)             |
